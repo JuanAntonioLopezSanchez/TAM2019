@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "459076928481",
+    "firebase_url": "https://talle2019.firebaseio.com",
+    "project_id": "talle2019",
+    "storage_bucket": "talle2019.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459076928481:android:03daf2ca717f0902",
+        "android_client_info": {
+          "package_name": "firebase.app.a35servicioswebfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBDmQFZUa_HsHFKzhBBdVlcyE8ZlrTJiQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459076928481-jvi2ukink3n42mp06l67tqrogga02trt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
