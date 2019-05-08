@@ -1,0 +1,152 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\JUANITO\AndroidStudioProjects\U4_AnimationEvents-master\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Users\JUANITO\AndroidStudioProjects\U4_AnimationEvents-master\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Users\JUANITO\AndroidStudioProjects\U4_AnimationEvents-master\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Users\JUANITO\AndroidStudioProjects\U4_AnimationEvents-master\app\src\main\AndroidManifest.xml:2:1-20:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\1012c51c4e77a69a147795ae1f5620c4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\06e3f16649a1cfe0b083c80a649ed3e6\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\78846a51808de9ab9cc6f8e504ba774c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\3a090bb49705e09afe4f36483ef95d46\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\3223b48a75adb4c2b287f246d44cfcdc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\a76ad47ca678a27b8e3b62f8b7d06202\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\f1cb09314329beef5e068aabb5987945\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\0c8a4a069c0c052d9d18c7e546059077\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\c9ad235c80f9e796a8fc170dff5127f1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\664dfa35eb10ed214a91c317db4db66c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\7f08c86424ad8d5f7b4d7e8766162f47\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\d67f6e63d93a3eed1e05c7333d466f28\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\3f5290454e3bae06bf8bdc158abcdbbd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\c14b1dec7f1266cfa11aa390f6595dae\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\eedbb7bc4cc851083583955663966861\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\72e14fbc9b7641046df4698ca09b43ca\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\589a65d3395ae31ef931f9cddc54bee3\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\584d82c905b1a8e88c1512020ac46550\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\54f750adad0e285b369891d0b2cae763\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\72ae3f173545041e119668332c1e2986\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\d8ad1fb520961c4db16f12c1ca114817\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\89051da66eecafc0d9b7a36b1a0af8af\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\0169b0248f3980c41999ad3d59eeffd4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\9f602bf5e13f60ff49b146676f4b7ff7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\e0e3a87d0b155c7a53fd74f911e7c205\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\8f2672f224bd73c35c27fee14db709fd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\9ad2f5461879dce158cbfa084d355433\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\JUANITO\AndroidStudioProjects\U4_AnimationEvents-master\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Users\JUANITO\AndroidStudioProjects\U4_AnimationEvents-master\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Users\JUANITO\AndroidStudioProjects\U4_AnimationEvents-master\app\src\main\AndroidManifest.xml:2:1-20:12
+	package
+		ADDED from C:\Users\JUANITO\AndroidStudioProjects\U4_AnimationEvents-master\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from C:\Users\JUANITO\AndroidStudioProjects\U4_AnimationEvents-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\JUANITO\AndroidStudioProjects\U4_AnimationEvents-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\JUANITO\AndroidStudioProjects\U4_AnimationEvents-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\JUANITO\AndroidStudioProjects\U4_AnimationEvents-master\app\src\main\AndroidManifest.xml:2:1-20:12
+		INJECTED from C:\Users\JUANITO\AndroidStudioProjects\U4_AnimationEvents-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\JUANITO\AndroidStudioProjects\U4_AnimationEvents-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\JUANITO\AndroidStudioProjects\U4_AnimationEvents-master\app\src\main\AndroidManifest.xml:2:1-20:12
+		INJECTED from C:\Users\JUANITO\AndroidStudioProjects\U4_AnimationEvents-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\JUANITO\AndroidStudioProjects\U4_AnimationEvents-master\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\JUANITO\AndroidStudioProjects\U4_AnimationEvents-master\app\src\main\AndroidManifest.xml:5:5-18:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\06e3f16649a1cfe0b083c80a649ed3e6\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\06e3f16649a1cfe0b083c80a649ed3e6\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\72e14fbc9b7641046df4698ca09b43ca\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\72e14fbc9b7641046df4698ca09b43ca\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\589a65d3395ae31ef931f9cddc54bee3\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\589a65d3395ae31ef931f9cddc54bee3\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\72e14fbc9b7641046df4698ca09b43ca\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\JUANITO\AndroidStudioProjects\U4_AnimationEvents-master\app\src\main\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from C:\Users\JUANITO\AndroidStudioProjects\U4_AnimationEvents-master\app\src\main\AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from C:\Users\JUANITO\AndroidStudioProjects\U4_AnimationEvents-master\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\JUANITO\AndroidStudioProjects\U4_AnimationEvents-master\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\JUANITO\AndroidStudioProjects\U4_AnimationEvents-master\app\src\main\AndroidManifest.xml:10:9-40
+activity#com.example.android.java.MainActivity
+ADDED from C:\Users\JUANITO\AndroidStudioProjects\U4_AnimationEvents-master\app\src\main\AndroidManifest.xml:11:9-17:20
+	android:name
+		ADDED from C:\Users\JUANITO\AndroidStudioProjects\U4_AnimationEvents-master\app\src\main\AndroidManifest.xml:11:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\JUANITO\AndroidStudioProjects\U4_AnimationEvents-master\app\src\main\AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\JUANITO\AndroidStudioProjects\U4_AnimationEvents-master\app\src\main\AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from C:\Users\JUANITO\AndroidStudioProjects\U4_AnimationEvents-master\app\src\main\AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\JUANITO\AndroidStudioProjects\U4_AnimationEvents-master\app\src\main\AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from C:\Users\JUANITO\AndroidStudioProjects\U4_AnimationEvents-master\app\src\main\AndroidManifest.xml:15:27-74
+uses-sdk
+INJECTED from C:\Users\JUANITO\AndroidStudioProjects\U4_AnimationEvents-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\JUANITO\AndroidStudioProjects\U4_AnimationEvents-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\JUANITO\AndroidStudioProjects\U4_AnimationEvents-master\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\1012c51c4e77a69a147795ae1f5620c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\1012c51c4e77a69a147795ae1f5620c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\06e3f16649a1cfe0b083c80a649ed3e6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\06e3f16649a1cfe0b083c80a649ed3e6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\78846a51808de9ab9cc6f8e504ba774c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\78846a51808de9ab9cc6f8e504ba774c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\3a090bb49705e09afe4f36483ef95d46\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\3a090bb49705e09afe4f36483ef95d46\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\3223b48a75adb4c2b287f246d44cfcdc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\3223b48a75adb4c2b287f246d44cfcdc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\a76ad47ca678a27b8e3b62f8b7d06202\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\a76ad47ca678a27b8e3b62f8b7d06202\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\f1cb09314329beef5e068aabb5987945\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\f1cb09314329beef5e068aabb5987945\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\0c8a4a069c0c052d9d18c7e546059077\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\0c8a4a069c0c052d9d18c7e546059077\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\c9ad235c80f9e796a8fc170dff5127f1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\c9ad235c80f9e796a8fc170dff5127f1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\664dfa35eb10ed214a91c317db4db66c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\664dfa35eb10ed214a91c317db4db66c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\7f08c86424ad8d5f7b4d7e8766162f47\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\7f08c86424ad8d5f7b4d7e8766162f47\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\d67f6e63d93a3eed1e05c7333d466f28\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\d67f6e63d93a3eed1e05c7333d466f28\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\3f5290454e3bae06bf8bdc158abcdbbd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\3f5290454e3bae06bf8bdc158abcdbbd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\c14b1dec7f1266cfa11aa390f6595dae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\c14b1dec7f1266cfa11aa390f6595dae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\eedbb7bc4cc851083583955663966861\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\eedbb7bc4cc851083583955663966861\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\72e14fbc9b7641046df4698ca09b43ca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\72e14fbc9b7641046df4698ca09b43ca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\589a65d3395ae31ef931f9cddc54bee3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\589a65d3395ae31ef931f9cddc54bee3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\584d82c905b1a8e88c1512020ac46550\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\584d82c905b1a8e88c1512020ac46550\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\54f750adad0e285b369891d0b2cae763\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\54f750adad0e285b369891d0b2cae763\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\72ae3f173545041e119668332c1e2986\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\72ae3f173545041e119668332c1e2986\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\d8ad1fb520961c4db16f12c1ca114817\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\d8ad1fb520961c4db16f12c1ca114817\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\89051da66eecafc0d9b7a36b1a0af8af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\89051da66eecafc0d9b7a36b1a0af8af\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\0169b0248f3980c41999ad3d59eeffd4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\0169b0248f3980c41999ad3d59eeffd4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\9f602bf5e13f60ff49b146676f4b7ff7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\9f602bf5e13f60ff49b146676f4b7ff7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\e0e3a87d0b155c7a53fd74f911e7c205\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\e0e3a87d0b155c7a53fd74f911e7c205\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\8f2672f224bd73c35c27fee14db709fd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\8f2672f224bd73c35c27fee14db709fd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\9ad2f5461879dce158cbfa084d355433\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\JUANITO\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\9ad2f5461879dce158cbfa084d355433\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\JUANITO\AndroidStudioProjects\U4_AnimationEvents-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\JUANITO\AndroidStudioProjects\U4_AnimationEvents-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\JUANITO\AndroidStudioProjects\U4_AnimationEvents-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\JUANITO\AndroidStudioProjects\U4_AnimationEvents-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\JUANITO\AndroidStudioProjects\U4_AnimationEvents-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\JUANITO\AndroidStudioProjects\U4_AnimationEvents-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\JUANITO\AndroidStudioProjects\U4_AnimationEvents-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\JUANITO\AndroidStudioProjects\U4_AnimationEvents-master\app\src\main\AndroidManifest.xml
