@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/botella" android:duration="100" />
+    <item android:drawable="@drawable/botella2" android:duration="100" />
+    <item android:drawable="@drawable/botella3" android:duration="100" />
+    <item android:drawable="@drawable/botella4" android:duration="100" />
+    <item android:drawable="@drawable/botella5" android:duration="100" />
+    <item android:drawable="@drawable/botella6" android:duration="100" />
+    <item android:drawable="@drawable/botella7" android:duration="100" />
+    <item android:drawable="@drawable/botella8" android:duration="100" />
+    <item android:drawable="@drawable/botella9" android:duration="100" />
+    <item android:drawable="@drawable/botella10" android:duration="100" />
+    <item android:drawable="@drawable/botella11" android:duration="100" />
+    <item android:drawable="@drawable/botella12" android:duration="100" />
+    <item android:drawable="@drawable/botella13" android:duration="100" />
+    <item android:drawable="@drawable/botella14" android:duration="100" />
+    <item android:drawable="@drawable/botella15" android:duration="100" />
+    <item android:drawable="@drawable/botella16" android:duration="100" />
+    <item android:drawable="@drawable/botella17" android:duration="100" />
+    <item android:drawable="@drawable/botella18" android:duration="100" />
+    <item android:drawable="@drawable/botella19" android:duration="100" />
+    <item android:drawable="@drawable/botella20" android:duration="100" />
+    <item android:drawable="@drawable/botella21" android:duration="100" />
+    <item android:drawable="@drawable/botella22" android:duration="100" />
+    <item android:drawable="@drawable/botella23" android:duration="100" />
+    <item android:drawable="@drawable/botella24" android:duration="100" />
+    <item android:drawable="@drawable/botella25" android:duration="100" />
+    <item android:drawable="@drawable/botella26" android:duration="100" />
+    <item android:drawable="@drawable/botella27" android:duration="100" />
+    <item android:drawable="@drawable/botella28" android:duration="100" />
+    <item android:drawable="@drawable/botella29" android:duration="100" />
+    <item android:drawable="@drawable/botella30" android:duration="100" />
+    <item android:drawable="@drawable/botella31" android:duration="100" />
+    <item android:drawable="@drawable/botella32" android:duration="100" />
+    <item android:drawable="@drawable/botella" android:duration="100" />
+
+</animation-list>
