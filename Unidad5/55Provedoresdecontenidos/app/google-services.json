@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "174218882473",
+    "firebase_url": "https://llamapor-6918c.firebaseio.com",
+    "project_id": "llamapor-6918c",
+    "storage_bucket": "llamapor-6918c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174218882473:android:7046704f35d46beb",
+        "android_client_info": {
+          "package_name": "com.example.a55provedoresdecontenidos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174218882473-s8i9e6b5ghs1vk1cophue4ucrifl3dgr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0Xd_fsjnRwZ2efO7_2VonTnn_Ppo_leA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174218882473-s8i9e6b5ghs1vk1cophue4ucrifl3dgr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
